@@ -1,12 +1,11 @@
 ---
 title: About
-description: 
+description: 关于我
 date: '2021-07-02'
 aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
 lastmod: '2021-07-02'
 menu:
     main: 
